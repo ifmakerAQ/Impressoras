@@ -55,5 +55,11 @@
 	M107
 	G28 X
 	```
-	
+
+### Configurações extras (CURA)
+ - Aba Printer
+	- Marcar a opção "Heated bed"
+ - Aba Extruder 1
+	- Colocar em "nozzle size" o diâmetro do bico, atualmente 0.4mm;
+	- Alterar "Compatible material diameter" para 1.75mm.
 	
